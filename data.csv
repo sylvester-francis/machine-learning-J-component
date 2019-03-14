@@ -1,4 +1,4 @@
-Name,Branch,Date,Brand,Category,Quantity,Price,TotalSales,BranchProximity,Festival/Offer,Actual Visits,Products Purchased,Visit day,VisitPossible/Not,Customer Type
+Name,Branch,Date,Brand,Category,Quantity,Price,TotalSales,BranchProximity,FestivalOffer,ActualVisits,ProductsPurchased,Visitday,VisitPossibleNot,CustomerType
 KUMARESAN.T,Thiruvanmiyur,28-Jan-14,PREETHI,Mixie,1,"4,344","4,344",No,No,1,1,OneVisit,No,Bad
 KARTHIKEYAN,Medavakkam,28-Jan-14,AKSHAYA,Grinder,1,2380.95,2380.95,No,No,1,2,SameDay,Yes,Good
 S.RAJMOHAN,OMR,29-Jan-14,PREETHI,Mixie,1,2620.09,2620.09,No,No,1,1,OneVisit,No,Bad
